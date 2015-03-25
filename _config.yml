@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Bart Hoffman Producties
+tagline:             'Freelance iOS and Mac OS X development'
+description:         'I am a freelance developer writing software for iOS and Mac OS X, based in Amsterdam.'
+url:                 http://www.barthoffman.nl
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Bart Hoffman
+  url:               https://twitter.com/barthoffman
+  email:             info@barthoffman.nl
+
+# Custom vars
+version:             1.0.0
