@@ -2,6 +2,6 @@
 layout: default
 img: imac.png
 category: Services
-title: Mac OS X development 
+title: Research & Development
 description: |
 ---

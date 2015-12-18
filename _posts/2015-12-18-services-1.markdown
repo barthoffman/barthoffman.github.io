@@ -2,6 +2,6 @@
 layout: default
 img: iPhone.png
 category: Services
-title: iOS - iPhone & iPad 
+title: Software Development 
 description: |
 ---

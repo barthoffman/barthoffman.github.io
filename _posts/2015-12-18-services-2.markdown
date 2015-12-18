@@ -2,6 +2,6 @@
 layout: default
 img: watch.png
 category: Services
-title: Apple Watch 
+title: Enterprise Apps
 description: |
 ---
