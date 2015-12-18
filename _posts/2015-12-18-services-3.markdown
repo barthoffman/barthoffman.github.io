@@ -1,7 +1,0 @@
----
-layout: default
-img: tvos.png
-category: Services
-title: Consultancy
-description: |
----

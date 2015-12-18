@@ -1,7 +1,9 @@
 ---
 layout: default
-img: watch.png
+img: imac.png
 category: Services
-title: Enterprise Apps
+title: Research & Development
 description: |
 ---
+
+Let's just say I'm curious, love to learn and improve processes.
