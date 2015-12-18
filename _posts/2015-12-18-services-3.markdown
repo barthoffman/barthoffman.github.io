@@ -1,7 +1,7 @@
 ---
 layout: default
-img: iPhone.png
+img: tvos.png
 category: Services
-title: iOS - iPhone & iPad 
+title: tvOS
 description: |
 ---

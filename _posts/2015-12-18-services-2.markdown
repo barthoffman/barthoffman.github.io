@@ -1,7 +1,7 @@
 ---
 layout: default
-img: imac.png
+img: watch.png
 category: Services
-title: Mac OS X development 
+title: Apple Watch 
 description: |
 ---

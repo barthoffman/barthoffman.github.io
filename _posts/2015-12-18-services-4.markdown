@@ -1,7 +1,7 @@
 ---
 layout: default
-img: iPhone.png
+img: imac.png
 category: Services
-title: iOS - iPhone & iPad 
+title: Mac OS X development 
 description: |
 ---
