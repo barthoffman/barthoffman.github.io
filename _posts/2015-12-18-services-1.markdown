@@ -9,4 +9,4 @@ description: |
 Bart Hoffman is a freelance iOS developer from Amsterdam.
 Want to build an app or have a great idea for a Mac app?
 
-After playing around with computers since the Atari and studying marketing and economics in Amsterdam, I have been writing software for iPhone, iPad, Mac OS X, watchOS and tvOS since the Apple SDK came out. Sometimes venturing into front-end, back-end or android if I like it.
+After playing around with computers since the Atari, I have been writing software for iPhone, iPad, Mac OS X, watchOS and tvOS since the Apple SDK came out. 
