@@ -2,10 +2,10 @@
 layout: default
 img: imac.png
 category: Services
-title: Research & Development
+title: CocoaheadsNL
 description: |
 ---
 
-Let's just say I'm curious, love to learn and improve processes.
-Currently I'm working on <a href="https://boxxxed.nl">Boxxxed</a> together with <a href="https://elwinzuiderveld.nl">Elwin Zuiderveld.</a>
-In case you want more information or want some iOS development done, feel free to contact us.
+Together with <a href="https://twitter.com/leenarts">Jeroen Leenarts</a>, <a href="https://twitter.com/sidneydekoning">Sidney de Koning</a> and <a href="https://twitter.com/nvh">Niels van Hoorn</a> I organise <a href="http://www.cocoaheads.nl">CocoaHeadsNL</a>.</p>
+<p>CocoaHeadsNL is a monthly meetup of iOS and OS X Developers in the Netherlands.</p>
+<p> In case you would like to know more about our meetups,<a href="mailto:bart.hoffman@cocoaheads.nl">feel free to contact us.</a></p>

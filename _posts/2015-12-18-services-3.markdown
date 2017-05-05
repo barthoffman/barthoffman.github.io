@@ -1,0 +1,10 @@
+---
+layout: default
+img: watch.png
+category: Services
+title: Boxxxed
+description: |
+---
+
+Currently I'm working on <a href="https://boxxxed.nl">Boxxxed</a> together with <a href="https://elwinzuiderveld.nl">Elwin Zuiderveld.</a>
+More news soon
