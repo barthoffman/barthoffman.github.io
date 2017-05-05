@@ -6,5 +6,6 @@ title: Software
 description: |
 ---
 
-Looking for a freelance iOS developer in Amsterdam? Got an idea for a Mac app? <p>Or looking for someone to set up shop and guide the process? With a background in marketing, consultancy and development?</p>
+Looking for a freelance iOS developer in Amsterdam? Got an idea for a Mac app?
+Or looking for someone to set up shop and guide the process? With a background in marketing, consultancy and development?
 <p>I have been writing software for iPhone, iPad, Mac OS X, watchOS and tvOS since the Apple SDK came out.</p>
