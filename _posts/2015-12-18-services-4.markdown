@@ -7,5 +7,5 @@ description: |
 ---
 
 Let's just say I'm curious, love to learn and improve processes.
-Got an idea and want to check if it's possible? Want "out of the box" solutions?
-Please contact me via email or one of the networks below.
+<p>Got an idea and want to check if it's possible? Want "out of the box" solutions?</p>
+<p>Please contact me via email or one of the networks below.</p>
