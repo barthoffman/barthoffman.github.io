@@ -3,7 +3,7 @@ layout: default
 img: imac.png
 category: Services
 title: CocoaheadsNL
-description: |
+description: macOS apps
 ---
 
 Together with <a href="https://twitter.com/leenarts">Jeroen Leenarts</a>, <a href="https://twitter.com/sidneydekoning">Sidney de Koning</a> and <a href="https://twitter.com/nvh">Niels van Hoorn</a> I organise <a href="http://www.cocoaheads.nl">CocoaHeadsNL</a>.

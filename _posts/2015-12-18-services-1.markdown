@@ -3,10 +3,10 @@ layout: default
 img: iPhone.png
 category: Services
 title: Software
-description: |
+description: iPhone apps
 ---
 
 Bart Hoffman is a freelance iOS developer from Amsterdam.
 Want to build an app or have a great idea for a Mac app?
 
-After playing around with computers since the Atari, I have been writing software for iPhone, iPad, Mac OS X, watchOS and tvOS since the Apple SDK came out. 
+After playing around with computers since the Atari, I have been writing software for iPhone, iPad, Mac OS X, watchOS and tvOS since the Apple SDK came out.
