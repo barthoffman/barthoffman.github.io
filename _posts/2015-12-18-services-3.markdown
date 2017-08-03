@@ -6,5 +6,5 @@ title: Boxxxed
 description: watchOS
 ---
 
-Currently I'm working on <a href="https://boxxxed.nl">Boxxxed</a> together with <a href="https://elwinzuiderveld.nl">Elwin Zuiderveld.</a>
-<p>More news soon</p>
+Launched an online webshop August 1st 2017 called <a href="https://boxxxed.beer">Boxxxed</a> together with <a href="https://elwinzuiderveld.nl">Elwin Zuiderveld.</a> 
+<p>Our plan is to sell all local craft beers from Amsterdam.</p>
