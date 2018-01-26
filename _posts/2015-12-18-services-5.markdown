@@ -1,0 +1,9 @@
+---
+layout: default
+img: server.jpeg
+category: Services
+title: Does consulting
+description: consulting
+---
+
+I see structures and behaviour and fix bottlenecks. Companies looking to improve processes, automate stuff or generate new business hire me as a consultant. Most of the time building bridges, occasionally you need to burn one.

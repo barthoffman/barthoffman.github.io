@@ -2,10 +2,10 @@
 layout: default
 img: imac.png
 category: Services
-title: CocoaheadsNL
+title: Organises stuff
 description: macOS apps
 ---
 
-Together with Jeroen Leenarts, Sidney de Koning and Niels van Hoorn I organise <a href="http://www.cocoaheads.nl">CocoaHeadsNL</a>.
+For instance, together with Jeroen Leenarts, Sidney de Koning and Niels van Hoorn and Marco Miltenburg I organise <a href="http://www.cocoaheads.nl">CocoaHeadsNL</a>.
 <p>CocoaHeadsNL is a monthly meetup of iOS and OS X Developers in the Netherlands.</p>
 <p> In case you would like to know more about our meetups,<a href="http://cocoaheads.nl"> feel free to contact us.</a></p>

@@ -2,9 +2,9 @@
 layout: default
 img: watch.png
 category: Services
-title: Boxxxed
+title: Launches ideas
 description: watchOS
 ---
 
-Launched an online webshop August 1st 2017 called <a href="https://boxxxed.beer">Boxxxed</a> together with <a href="https://elwinzuiderveld.nl">Elwin Zuiderveld.</a> 
-<p>Our plan is to sell all local craft beers from Amsterdam.</p>
+Recently Launched an online webshop August 1st 2017 called <a href="https://boxxxed.beer">Boxxxed</a> together with <a href="https://elwinzuiderveld.nl">Elwin Zuiderveld.</a>
+<p>We sell all local craft beers from Amsterdam.</p>

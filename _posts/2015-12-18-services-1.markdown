@@ -2,7 +2,7 @@
 layout: default
 img: iPhone.png
 category: Services
-title: Software
+title: Writes software
 description: iPhone apps
 ---
 
