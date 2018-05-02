@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<urlset xmlns="https://www.google.com/schemas/sitemap/0.84">
 
 <url>
-<loc>http://barthoffman.nl/#home</loc>
+<loc>https://barthoffman.nl/#home</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://barthoffman.nl/#about</loc>
+<loc>https://barthoffman.nl/#about</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://barthoffman.nl/#services</loc>
+<loc>https://barthoffman.nl/#services</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://barthoffman.nl/#contact</loc>
+<loc>https://barthoffman.nl/#contact</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://twitter.com/barthoffman</loc>
+<loc>httpss://twitter.com/barthoffman</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://github.com/barthoffman</loc>
+<loc>httpss://github.com/barthoffman</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.linkedin.com</loc>
+<loc>httpss://www.linkedin.com</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://en.wikipedia.org/wiki/IOS</loc>
+<loc>httpss://en.wikipedia.org/wiki/IOS</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://apple.com</loc>
+<loc>httpss://apple.com</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://twitter.com/leenarts</loc>
+<loc>httpss://twitter.com/leenarts</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://twitter.com/sidneydekoning</loc>
+<loc>httpss://twitter.com/sidneydekoning</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://twitter.com/nvh</loc>
+<loc>httpss://twitter.com/nvh</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cocoaheads.nl</loc>
+<loc>https://cocoaheads.nl</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://boxxxed.nl</loc>
+<loc>httpss://boxxxed.nl</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://elwinzuiderveld.nl</loc>
+<loc>httpss://elwinzuiderveld.nl</loc>
 <lastmod>2017-05-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>

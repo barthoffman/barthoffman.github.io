@@ -2,14 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.barthoffman.nl
+url: https://www.barthoffman.nl
 title: Bart Hoffman Producties
 email: info@barthoffman.nl
 author: Bart Hoffman
 description: >
   Bart Hoffman, iOS Development, iPhone, iPad, Cocoa, Objective-C, Freelance, iPhone Developer, mobiele app, apple, app, applicaties, mobiel
 copyright: 'Copyright &copy; 2015 Bart Hoffman. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="https://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -25,8 +25,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/barthoffman
+    url: httpss://twitter.com/barthoffman
   - title: github
-    url: https://github.com/barthoffman
+    url: httpss://github.com/barthoffman
   - title: linkedin
-    url: https://www.linkedin.com
+    url: httpss://www.linkedin.com
