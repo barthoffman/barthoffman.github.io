@@ -6,6 +6,6 @@ title: Organises stuff
 description: macOS apps
 ---
 
-For instance, together with Jeroen Leenarts, Sidney de Koning and Niels van Hoorn and Marco Miltenburg I organise <a href="https://www.cocoaheads.nl">CocoaHeadsNL</a>.
+For instance, together with <a href="https://cocoaheads.nl/team">this team</a> I organise <a href="https://www.cocoaheads.nl">CocoaHeadsNL</a>.
 <p>CocoaHeadsNL is a monthly meetup of iOS and OS X Developers in the Netherlands.</p>
 <p> In case you would like to know more about our meetups,<a href="https://cocoaheads.nl"> feel free to contact us.</a></p>
