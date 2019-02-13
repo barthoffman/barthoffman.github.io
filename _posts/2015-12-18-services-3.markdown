@@ -6,5 +6,5 @@ title: Launches ideas
 description: watchOS
 ---
 
-Recently Launched an online webshop August 1st 2017 called <a href="https://boxxxed.beer">Boxxxed</a> together with <a href="https://elwinzuiderveld.nl">Elwin Zuiderveld.</a>
-<p>We sell all local craft beers from Amsterdam.</p>
+For example: Launched an online webshop August 1st 2017 called <a href="https://boxxxed.beer">Boxxxed</a> together with <a href="https://elwinzuiderveld.nl">Elwin Zuiderveld.</a>
+<p>We sold all local craft beers from Amsterdam.</p>
